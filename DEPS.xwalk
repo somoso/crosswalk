@@ -21,7 +21,7 @@ chromium_crosswalk_rev = '9f33a4e0eb2096ee27b6b4407874e2feaee86e2a'
 v8_crosswalk_rev = 'f9c7034dff7139f09c7fa5a663dd7052d09b2301'
 ozone_wayland_rev = 'd6ad1b8bb4e2c71427283ffc21ac8d66cb576730'
 
-crosswalk_git = 'https://github.com/somoso'
+crosswalk_git = 'ssh://git@github.com/somoso'
 ozone_wayland_git = 'https://github.com/01org'
 
 # ------------------------------------------------------
